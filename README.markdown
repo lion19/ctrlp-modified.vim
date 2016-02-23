@@ -14,7 +14,7 @@ Add `ctrlp-modified` after `ctrlp` in your [Vundle](https://github.com/gmarik/vu
 
 ``` vim
 Bundle 'kien/ctrlp.vim'
-Bundle 'jasoncodes/ctrlp-modified.vim'
+Bundle 'lion19/ctrlp-modified.vim'
 ```
 
 Then set yourself up some mappings:
