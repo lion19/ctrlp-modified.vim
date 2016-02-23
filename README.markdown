@@ -3,10 +3,10 @@
 Easily open locally modified files in your git-versioned projects.
 
 The idea is that you're likely to be editing the same files again, or maybe
-you just want to catch up on the progress you've made after coming back from a break.
+you just want to search only files in the git index.
 
 * `:CtrlPModified` shows all files which have been modified since your last commit.
-* `:CtrlPBranch` shows all files modified on your current branch.
+* `:CtrlPBranch` shows all files on your current branch.
 
 ## Installation
 
